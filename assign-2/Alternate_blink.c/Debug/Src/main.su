@@ -1,0 +1,7 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	24	static
+../Src/main.c:36:5:main	8	static
+../Src/main.c:50:6:led_init	4	static
+../Src/main.c:66:6:led_on_12_14_	4	static
+../Src/main.c:70:6:led_off_12_14_	4	static
+../Src/main.c:74:6:led_on_13_15_	4	static
+../Src/main.c:78:6:led_off_13_15_	4	static
